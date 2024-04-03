@@ -1,0 +1,27 @@
+.pagina {
+    margin: 0 auto;
+    width: fit-content;
+    background-color: cadetblue;
+}
+
+.pagina h1 {
+    text-align: center;
+}
+
+body {
+    margin: 10px;
+}
+
+.escudo{
+    max-width: 40px;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}

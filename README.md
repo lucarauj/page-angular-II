@@ -3,10 +3,17 @@
 ## ✅ Estruturando o projeto
 
 - ng new brasileirao-app --no-standalone
+- ng g s services/campeonato
 
 <br>
 
-## Layout
+## 🏹 Documentação da API
+
+- https://www.api-futebol.com.br/documentacao/campeonato
+
+<br>
+
+## Página
 
 <p align="left"><img width="800px" src="" /></p>
 
