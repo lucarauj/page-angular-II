@@ -15,7 +15,7 @@
 
 ## Página
 
-<p align="left"><img width="800px" src="" /></p>
+<p align="left"><img width="800px" src="https://github.com/lucarauj/page-angular-II/blob/main/src/assets/layout.png" /></p>
 
 <br>
 
